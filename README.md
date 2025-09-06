@@ -1,3 +1,3 @@
 # pratay
 
-pritim rumi 
+# pritim rumi 
